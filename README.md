@@ -2,7 +2,7 @@
 
 ### In this assignment the goal is to impement a Market Basket Analysis for Case 1, an Recency, Frequency, Monetary (RFM) Segmentation for Case 2 and a predictive model for Case 3.
 
-Case 1:
+##### Case 1:
 Buy-books-on-line.com is an on line store that sells books about science and information 
 technology. The store is very well known in the academic community so a lot of its customers 
 are university professors and also librarians at universities buying on behalf of their 
@@ -22,7 +22,7 @@ minimum confidence level the 0.1. Also set the maximum number of items in a rule
 a rule). Save the rules table in the CASUSER library with the title MBA_Results. In the main 
 body of the report you should answer the questions are required in 'Assignment Description - Viya' pdf
 
-Case 2:
+##### Case 2:
 Sports-OnLine.com is an on line retailer that sells sports clothes and shoes and it is operating 
 in the market since October 2001. On January 2007, after six year of operation, the 
 management team of the store wants to exploit the electronic data captured the previous 
@@ -39,7 +39,7 @@ what marketing actions are appropriate for each segment (e.g. customer reactivat
 program, contact customers for feedback, cross sell activities, special promotions etc) and 
 why.
 
-Case 3:
+##### Case 3:
 This case study refers to a fictitious insurance organization - XYZ – and more specifically to its 
 marketing department that is currently organizing a targeted campaign to identify segments 
 of customers who are likely to purchase a variable annuity (an insurance product). A variable 
